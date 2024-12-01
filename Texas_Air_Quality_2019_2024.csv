@@ -1,4 +1,4 @@
-Date,AQS Parameter Description,State,Daily AQI Value,County,Site Latitude,Site Longitude
+Date,Pollutant,State,Daily AQI Value,County,Site Latitude,Site Longitude
 1/1/2019,O3,Texas,30,Brazoria,29.043759,-95.472946
 1/1/2019,NO2,Texas,30,El Paso,31.765685,-106.455227
 1/1/2019,O3,Texas,31,Montgomery,30.350302,-95.425128
